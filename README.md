@@ -1,7 +1,7 @@
 # About Me
 
 **Hello 👋 My name is Adnan Islam.** <br/> <br/>
-I am a passonate Frontend Web Developer with very solid foundation in building visually appealing and responsive websites.
+I am a passionate Frontend Web Developer with very solid foundation in building visually appealing and responsive websites.
 
 **🎓 Education:**
 - Master’s in Computer Science and Engineering from University of Oulu (July 2021).
