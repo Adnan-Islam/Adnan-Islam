@@ -1,4 +1,6 @@
-**Hi there 👋 My name is Adnan Islam.** I am a Frontend Web Developer. I have developed a number of websites personally as well as during my studies. 
+# About Me
+**Hello 👋 My name is Adnan Islam.**
+I am a Frontend Web Developer. I have developed a number of websites personally as well as during my studies. I have completed my Masters degree in Computer Science and Engineering from University of Oulu in July, 2021.
 
 🔧 **Technologies I work with:**
 - HTML, CSS, Saas, JavaScript, React.js
