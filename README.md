@@ -5,13 +5,6 @@ At Versolix, I lead product vision, engineering direction, and end-to-end softwa
 
 ## 🚀 Featured Work
 
-### Versolix — Company Website
-A clean corporate website focused on clarity, trust, and conversion for a technology services company that delivers versatile smart services.
-- 🌐 Live: [https://your-demo-link.netlify.app](https://www.versolix.fi/)
-- 🛠 Tech stack:  HTML, CSS and JavaScript
-- ✨ Highlights: Professional corporate website that builds trust and credibility.
-
----
 ### Sleek Auto — Car Wash Service Website
 A modern, responsive website designed to showcase premium car wash services with clear pricing and strong call-to-actions.
 - 🌐 Live demo: [https://your-demo-link.netlify.app](https://sleek-auto.netlify.app/)
@@ -19,7 +12,6 @@ A modern, responsive website designed to showcase premium car wash services with
 - ✨ Highlights: Premium design that reflects professional car care.
 
 > 🔒 **Note:** Source code for these projects is maintained in private repositories.  
-
 
 ## 🧑‍💼 Experience
 
@@ -35,9 +27,9 @@ A modern, responsive website designed to showcase premium car wash services with
 ## 🛠️ Skills
 
 ### **Technical**
-- JavaScript
 - React.js
 - Python
+- JavaScript
 - HTML
 - CSS
 
