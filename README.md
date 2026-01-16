@@ -3,8 +3,23 @@
 ## 👋 Hi, I'm Adnan Islam — Founder & CEO of Versolix  
 At Versolix, I lead product vision, engineering direction, and end-to-end software development.
 
-## 🎓 Education 
-- Master’s in Computer Science and Engineering, University of Oulu, July 2021.
+## 🚀 Featured Work
+
+### Versolix — Company Website
+A clean corporate website focused on clarity, trust, and conversion for a technology services company that delivers versatile smart services.
+- 🌐 Live: [https://your-demo-link.netlify.app](https://www.versolix.fi/)
+- 🛠 Tech stack:  HTML, CSS and JavaScript
+- ✨ Highlights: Professional corporate website that builds trust and credibility.
+
+---
+### Sleek Auto — Car Wash Service Website
+A modern, responsive website designed to showcase premium car wash services with clear pricing and strong call-to-actions.
+- 🌐 Live demo: [https://your-demo-link.netlify.app](https://sleek-auto.netlify.app/)
+- 🛠 Tech stack: HTML, CSS and JavaScript
+- ✨ Highlights: Premium design that reflects professional car care.
+
+> 🔒 **Note:** Source code for these projects is maintained in private repositories.  
+
 
 ## 🧑‍💼 Experience
 
@@ -36,7 +51,10 @@ At Versolix, I lead product vision, engineering direction, and end-to-end softwa
 
 ### **Other Skills**
 - Problem-solving & system thinking  
-- Technical documentation  
+- Technical documentation
+
+## 🎓 Education 
+- Master’s in Computer Science and Engineering, University of Oulu, July 2021.
 
 ## 🌱 Currently Working On
 - Expanding Versolix’s digital service capabilities  
