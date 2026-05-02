@@ -11,9 +11,8 @@ At Versolix, I lead product vision, engineering direction, and end-to-end softwa
 
 Built with a focus on usability, performance, and real-world business needs, Dinora helps restaurants streamline operations, reduce no-shows, and manage reservations efficiently — all from a single dashboard.
 
----
 
-## 🚀 Key Features
+## ✨ Key Features
 
 - **Real-Time Reservation Interface**  
   Clean, intuitive booking experience for customers with time slot selection.
@@ -33,7 +32,6 @@ Built with a focus on usability, performance, and real-world business needs, Din
 - **Mobile-Responsive Design**  
   Fully optimized across all devices.
 
----
 
 ## 💡 Problem It Solves
 
@@ -46,7 +44,6 @@ Restaurants often struggle with:
 
 **Dinora replaces outdated systems with a simple, digital solution.**
 
----
 
 ## 🛠️ Tech & Approach
 
@@ -55,7 +52,6 @@ Restaurants often struggle with:
 - Focus on **clean UI/UX and performance**  
 - Easily integratable with restaurant websites  
 
----
 
 ## 📈 Vision
 
@@ -70,11 +66,12 @@ Next steps include:
 
 **Goal:** provide restaurants with a unified system to manage bookings, operations, and customer experience in one place.
 
----
 
 ## 🔗 Live Product
 
 👉 *https://dinorabookings.com* 
+
+---
 
 ## 🧑‍💼 Experience
 
@@ -109,21 +106,27 @@ Next steps include:
 - Problem-solving & system thinking  
 - Technical documentation
 
+---
+
 ## 🎓 Education 
 - Master’s in Computer Science and Engineering, University of Oulu, Finland.
+
 
 ## 🚀 Currently Working On
 
 - **Building scalable SaaS products** under Versolix  
 - **Turning real-world business challenges** into digital platforms  
 - **Helping SMEs digitize operations** through simple, powerful software  
-- **Expanding into multi-industry solutions** (restaurants, services, platforms)  
-  
+- **Expanding into multi-industry solutions** (restaurants, services, platforms)
+
+
 ## ⭐ Fun Fact
 I love turning ideas into real digital products — from concept to launch.
+
   
 ## 💬 Let's Connect
 If you want to collaborate, build something meaningful, or discuss a project — feel free to reach out!
+
 
 ## 📫 Contact
 📧 **adnanul.islam@versolix.fi**  
